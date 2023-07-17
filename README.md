@@ -76,7 +76,7 @@ nlp = spacy.load("la_core_web_trf")
     - https://huggingface.co/latincy/la_core_web_trf
 
 <!-- ### Changelog -->
-<!-- - v3.5.3: Add Verbform to morph labels; allows better handling of infinitives, gerunds, and gerundives \[6.22.2023\]     -->
+<!-- - v3.5.3: Add Verbform to morph labels; allows better handling of infinitives, gerunds, and gerundives \[X.XX.XXXX\]     -->
 
 ## Current version
 
